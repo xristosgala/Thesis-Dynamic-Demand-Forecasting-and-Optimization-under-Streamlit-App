@@ -1,9 +1,20 @@
-# Dynamic Demand Forecasting and Optimization: Improving the Management of Crisis-Driven Food Supply Chains
+# Dynamic Demand Forecasting and Optimization
+## Improving the Management of Crisis-Driven Food Supply Chains
 
-This repository includes my thesis documents. Specifically, the thesis was a mandatory part of the Masters in Data Science from the Internation Hellenic University in Thessaloniki, Greece.
+This repository contains the materials for my Master’s thesis, completed as part of the MSc in Data Science at the International Hellenic University (Thessaloniki, Greece).
 
-The repository includes the following:
-- **Christos Galanis Thesis.pdf:** This is the final version of the paper. It includes all the information in detail for an appropriate comprehension of the research.
-- **Food Demand Forecasting.ipynb:** contains EDA part and three different approaches using the XGBoost model for food order prediction
-- **Linear Programming:** includes the results of the best XGBoost model approach while these results are given as input to an LP algorithm for determing the optimal number of food orders under various constraints.
-- **Streamlit App:** contains the approaches from the two previous files adjusting them appropriate for the the streamlit application.
+The research focuses on forecasting food demand under crisis conditions and optimizing supply decisions by combining machine learning and operations research techniques.
+
+### Repository Contents
+
+Christos Galanis Thesis.pdf
+The final version of the thesis, providing a complete and detailed explanation of the methodology, experiments, and results.
+
+Food Demand Forecasting.ipynb
+Exploratory Data Analysis (EDA) and three alternative demand forecasting approaches using XGBoost for food order prediction.
+
+Linear Programming/
+Optimization results based on the best-performing XGBoost model. Forecasted demand is used as input to a Linear Programming (LP) model to determine optimal food order quantities under multiple constraints.
+
+Streamlit App/
+An interactive application that integrates the forecasting and optimization pipelines, adapted for deployment using Streamlit.
