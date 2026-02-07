@@ -5,16 +5,16 @@ This repository contains the materials for my Master’s thesis, completed as pa
 
 The research focuses on forecasting food demand under crisis conditions and optimizing supply decisions by combining machine learning and operations research techniques.
 
-### Repository Contents
+## Repository Contents
 
-Christos Galanis Thesis.pdf
-The final version of the thesis, providing a complete and detailed explanation of the methodology, experiments, and results.
+- **Christos Galanis Thesis.pdf**  
+  The final version of the thesis, providing a complete and detailed explanation of the methodology, experiments, and results.
 
-Food Demand Forecasting.ipynb
-Exploratory Data Analysis (EDA) and three alternative demand forecasting approaches using XGBoost for food order prediction.
+- Food Demand Forecasting.ipynb  
+  Exploratory Data Analysis (EDA) and three alternative demand forecasting approaches using XGBoost for food order prediction.
 
-Linear Programming/
-Optimization results based on the best-performing XGBoost model. Forecasted demand is used as input to a Linear Programming (LP) model to determine optimal food order quantities under multiple constraints.
+- Linear Programming  
+ Optimization results based on the best-performing XGBoost model. Forecasted demand is used as input to a Linear Programming (LP) model to determine optimal food order quantities under multiple constraints.
 
-Streamlit App/
-An interactive application that integrates the forecasting and optimization pipelines, adapted for deployment using Streamlit.
+- Streamlit App  
+  An interactive application that integrates the forecasting and optimization pipelines, adapted for deployment using Streamlit.
