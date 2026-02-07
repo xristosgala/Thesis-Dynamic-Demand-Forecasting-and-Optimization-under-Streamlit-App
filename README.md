@@ -1,5 +1,4 @@
-# Dynamic Demand Forecasting and Optimization
-## Improving the Management of Crisis-Driven Food Supply Chains
+# Dynamic Demand Forecasting and Optimization: Improving the Management of Crisis-Driven Food Supply Chains
 
 This repository contains the materials for my Master’s thesis, completed as part of the MSc in Data Science at the International Hellenic University (Thessaloniki, Greece).
 
